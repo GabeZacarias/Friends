@@ -1,0 +1,20 @@
+10
+tony|y|rutgers
+paulie|y|rutgers
+christopher|y|rutgers
+carmela|y|rutgers
+aj|n
+vito|y|rutgers
+adrianna|y|penn state
+meadow|y|penn state
+uncle_junior|n
+ralphie|n
+tony|paulie
+paulie|christopher
+christopher|carmela
+carmela|ralphie
+carmela|aj
+ralphie|vito
+aj|vito
+adrianna|meadow
+meadow|uncle_junior

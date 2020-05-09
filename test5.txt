@@ -1,0 +1,26 @@
+13
+spongebob|y|rutgers
+patrick|y|rutgers
+sandy|y|rowan
+squidward|y|nyu
+harambe|n
+deba|y|rutgers
+timmy_turner|n
+livingston_coyote|y|penn state
+the_rock|y|rutgers
+barchi|y|rutgers
+johnnycakes97|y|rutgers
+mileyCyrus|y|nyu
+grandma|n
+spongebob|patrick
+spongebob|squidward
+patrick|sandy
+squidward|harambe
+squidward|barchi
+barchi|deba
+barchi|johnnycakes97
+johnnycakes97|mileyCyrus
+mileyCyrus|grandma
+harambe|deba
+timmy_turner|livingston_coyote
+timmy_turner|the_rock
